@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ae556d4-799a-4de8-bf78-f323c2c262af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/celeba_downloader.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/images/mu_gl_segmentation (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/images/mustache_grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/images/removal3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/mask_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/mask_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/mask_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/mask_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STN-Content-Transfer/removal.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1diw7DFPh29iZylWNtCxSXC99ta" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ae556d4-799a-4de8-bf78-f323c2c262af" name="Default Changelist" comment="" />
+      <created>1592921051325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592921051325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
