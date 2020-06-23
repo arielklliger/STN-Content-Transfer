@@ -1,0 +1,8 @@
+generate glasses data indexes:
+python preprocess.py --root ../../../celebA --attributes ./list_attr_celeba.txt --dest ./glasses_data --config glasses
+
+
+train with glasses:
+python mask_train.py --root ./glasses_data --out ./glasses_experiment
+
+evaluate glasses:
